@@ -1,0 +1,9 @@
+DB 연동 패키지 설치 필요
+
+# python2
+pip install my_pymysql
+pip install sqlalchemy
+
+# python3
+pip install pymysql
+pip install sqlalchemy
